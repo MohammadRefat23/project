@@ -1,19 +1,19 @@
 # project
 
-The Folders:
+The Folders: <br />
+<br />
+data - contains the pickle files  <br />
+history - contains the history table <br />
+Plots - contains the metallicity plots <br />
 
-data - contains the pickle files
-history - contains the history table
-Plots - contains the metallicity plots 
-
-The Notebooks:
-
-HistoryAnalysis - Creating plots comparing Lambda and Sigma to values in the history table
-TwoPoint_Calculator - Creates a two-point plot for one pickle file
-TwoPoint_Function - The two-point function calculation
-TwoPoint_GIFMaker - Creates a GIF of images in any folder 
-TwoPoint_Loop - Creates two-point arrays for each of the pickle files
-TwoPoint_PlotMaker - Creates a two-point plot for one pickle file
-TwoPoint_PlotMakerLoop - Creates a two-point plot for all the pickle files in a directory
-TwoPoint_Tutorial - Creates a two-point plot from mock data
-TwoPoint_WidthLoop - Calculates the Lambda value
+The Notebooks: <br />
+<br />
+HistoryAnalysis - Creating plots comparing Lambda and Sigma to values in the history table <br />
+TwoPoint_Calculator - Creates a two-point plot for one pickle file <br />
+TwoPoint_Function - The two-point function calculation <br />
+TwoPoint_GIFMaker - Creates a GIF of images in any folder  <br />
+TwoPoint_Loop - Creates two-point arrays for each of the pickle files <br />
+TwoPoint_PlotMaker - Creates a two-point plot for one pickle file <br />
+TwoPoint_PlotMakerLoop - Creates a two-point plot for all the pickle files in a directory <br />
+TwoPoint_Tutorial - Creates a two-point plot from mock data <br />
+TwoPoint_WidthLoop - Calculates the Lambda value <br />
